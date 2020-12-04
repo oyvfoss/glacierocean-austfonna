@@ -28,4 +28,4 @@ Includes CTD observations off the plume on the southern coast of Nordaustlandet.
 
 <img src="t_transect_pfirman1989_S_austfonna.PNG"  width="300" height="300"> 
 
-<img src="pfirman_1989_drainagebasins.PNG"  width="300" height="300"> 
+<img src="pfirman_1989_drainagebasins.PNG"  width="300" height="450"> 
