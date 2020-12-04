@@ -10,5 +10,5 @@ Experimenting with using the gitlab infrastructure for project management.
 
 
 - [Literature](literature/literature.md)
-- [M1 mooring](bathymetry/bathymetry.md)
+- [Bathymetry](bathymetry/bathymetry.md)
 - [M1 mooring](M1_mooring/m1_mooring.md)
