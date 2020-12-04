@@ -26,6 +26,8 @@ https://www.sciencedirect.com/science/article/abs/pii/0025322789900893- *Marine 
 
 Includes CTD observations off the plume on the southern coast of Nordaustlandet. These observations are from 1981 and 1982 - the time of year is not specified. The transect shown suggests very cold temperatures.
 
+Also suggests that much of the terminus area is located below sea level - some below 100 m.
+
 <img src="t_transect_pfirman1989_S_austfonna.PNG"  width="300" height="300"> 
 
 <img src="pfirman_1989_drainagebasins.PNG"  width="450" height="300"> 
