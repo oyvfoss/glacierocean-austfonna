@@ -7,7 +7,7 @@ An overview of relevant papers (not clear what has been done here previously).
 margins of modern and ancient tidewater glaciers:
 Observations and modelling*
 
- *Sedimentology* (https://onlinelibrary.wiley.com/doi/pdf/10.1111/sed.12198)
+ https://onlinelibrary.wiley.com/doi/pdf/10.1111/sed.12198 - *Sedimentology* 
 
 Detailed study of sediment plumes from the Nordaustlandet margin, including Hartogbukta. Based on satellite imagery, geophysical data and modelling - no ocean observations. 
 
@@ -16,7 +16,7 @@ Use the *SedPlume* model to look at sediment transport. As far as I can tell, th
 **Robinson & Dowdeswell 2011:** 
 *Submarine landforms and the behavior of a surging ice cap since the last glacial maximum: The open-marine setting of eastern Austfonna, Svalbard*
 
-*Marine Geology* (https://www.sciencedirect.com/science/article/pii/S0025322711001319)
+https://www.sciencedirect.com/science/article/pii/S0025322711001319 - Marine Geology
 
 Show detailed bathymetry from Hartogbukta - looks like there is an opening to about 100 m.
 
