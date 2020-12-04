@@ -22,6 +22,7 @@ Show detailed bathymetry from Hartogbukta - looks like there is an opening to ab
 
 
 **Pfirman & Solheim 1989:** *Subglacial meltwater discharge in the open-marine tidewater glacier environment: observations from Nordaustlandet, Svalbard Archipelago*
+
 https://www.sciencedirect.com/science/article/abs/pii/0025322789900893- *Marine Geology*
 
 Includes CTD observations off the plume on the southern coast of Nordaustlandet. These observations are from 1981 and 1982 - the time of year is not specified. The transect shown suggests very cold temperatures.
