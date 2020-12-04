@@ -1,10 +1,6 @@
 # Bathymetry
 
-<img src="images/m1_map_coast.png"  width="250" height="200">
-
-*IBCAO v3 bathymetry around Hatrogbukta, showing M1* 
+<img src="images/m1_map_coast.png"  width="400" height="350"> <img src="images/hartog_bathy.PNG"  width="450" height="350">
 
 
-<img src="images/hartog_bathy.PNG"  width="250" height="200">
-
-*Detailed bathymetry in Hatrogbukta, from Robinson & Dowdeswell (2011).* 
+**Left:** *IBCAO v3 bathymetry around Hatrogbukta, showing M1*, **Right:** *Detailed bathymetry in Hartogbukta, from Robinson & Dowdeswell (2011).* 
