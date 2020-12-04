@@ -1,4 +1,3 @@
-
 ### Literature
 
 An overview of relevant papers (not clear what has been done here previously).
