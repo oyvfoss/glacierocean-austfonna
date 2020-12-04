@@ -16,4 +16,4 @@ Including Hartogbukta.
 
 *Marine Geology* (https://www.sciencedirect.com/science/article/pii/S0025322711001319)
 
-<img src="hartog_bathy.PNG"  width="605" height="300">
+<img src="hartog_bathy.PNG"  width="300" height="300">
