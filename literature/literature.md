@@ -16,8 +16,16 @@ Use the *SedPlume* model to look at sediment transport. As far as I can tell, th
 **Robinson & Dowdeswell 2011:** 
 *Submarine landforms and the behavior of a surging ice cap since the last glacial maximum: The open-marine setting of eastern Austfonna, Svalbard*
 
-https://www.sciencedirect.com/science/article/pii/S0025322711001319 - Marine Geology
+https://www.sciencedirect.com/science/article/pii/S0025322711001319 - *Marine Geology*
 
 Show detailed bathymetry from Hartogbukta - looks like there is an opening to about 100 m.
 
-<img src="hartog_bathy.PNG"  width="300" height="300">
+
+**Pfirman & Solheim 1989:** *Subglacial meltwater discharge in the open-marine tidewater glacier environment: observations from Nordaustlandet, Svalbard Archipelago*
+https://www.sciencedirect.com/science/article/abs/pii/0025322789900893- *Marine Geology*
+
+Includes CTD observations off the plume on the southern coast of Nordaustlandet. These observations are from 1981 and 1982 - the time of year is not specified. The transect shown suggests very cold temperatures.
+
+<img src="t_transect_pfirman1989_S_austfonna.PNG"  width="300" height="300"> 
+
+<img src="pfirman_1989_drainagebasins.PNG"  width="300" height="300"> 
