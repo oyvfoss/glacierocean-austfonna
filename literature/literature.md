@@ -18,6 +18,6 @@ Use the *SedPlume* model to look at sediment transport. As far as I can tell, th
 
 *Marine Geology* (https://www.sciencedirect.com/science/article/pii/S0025322711001319)
 
-Show detailed bathymetry from Hartogbukta - looks like 
+Show detailed bathymetry from Hartogbukta - looks like there is an opening to about 100 m.
 
 <img src="hartog_bathy.PNG"  width="300" height="300">
