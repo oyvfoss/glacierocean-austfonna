@@ -11,6 +11,8 @@ Observations and modelling*
 
 Detailed study of sediment plumes from the Nordaustlandet margin, including Hartogbukta. Based on satellite imagery, geophysical data and modelling - no ocean observations. 
 
+Use the *SedPlume* model to look at sediment transport. As far as I can tell, the plume part of this is the Morton 1956 buoyant plume (half-cone, probably), but with no melting. They don't seem to specify where they get the stratification from.
+
 **Robinson & Dowdeswell 2011:** 
 *Submarine landforms and the behavior of a surging ice cap since the last glacial maximum: The open-marine setting of eastern Austfonna, Svalbard*
 
