@@ -8,7 +8,7 @@ Experimenting with using the gitlab infrastructure for project management.
 
 
 - [Literature](literature/literature.md)
-- [M1 mooring](literature/literature.md)
+- [M1 mooring](M1_mooring/m1_mooring.md)
 
 *Hartogbukta, screenshot from TopoSvalbard*
 
