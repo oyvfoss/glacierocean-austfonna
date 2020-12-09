@@ -1,6 +1,6 @@
 # glacierocean-austfonna
 
-Exploring glacier-ocean interactions at Austfonna glaciers terminating in the northern Barents Sea.
+Curiosity-driven exploration of glacier-ocean interactions at Austfonna glaciers terminating in the northern Barents Sea.
 
 Experimenting with using the gitlab infrastructure for project management.
 
