@@ -2,6 +2,8 @@
 
 An overview of relevant papers (not clear what has been done here previously).
 
+------------------------------
+
 **Dowdeswell et al 2015:**
 *Sediment-rich meltwater plumes and ice-proximal fans at the
 margins of modern and ancient tidewater glaciers:
@@ -11,7 +13,12 @@ Observations and modelling*
 
 Detailed study of sediment plumes from the Nordaustlandet margin, including Hartogbukta. Based on satellite imagery, geophysical data and modelling - no ocean observations. 
 
-Use the *SedPlume* model to look at sediment transport. As far as I can tell, the plume part of this is the Morton 1956 buoyant plume (half-cone, probably), but with no melting. They don't seem to specify where they get the stratification from.
+Use the *SedPlume* model to look at sediment transport. As far as I can tell,
+the plume part of this is the Morton 1956 buoyant plume (half-cone, probably),
+but with no melting. They don't seem to specify where they get the
+stratification from.
+
+------------------------------
 
 **Robinson & Dowdeswell 2011:** 
 *Submarine landforms and the behavior of a surging ice cap since the last glacial maximum: The open-marine setting of eastern Austfonna, Svalbard*
@@ -20,6 +27,7 @@ https://www.sciencedirect.com/science/article/pii/S0025322711001319 - *Marine Ge
 
 Show detailed bathymetry from Hartogbukta - looks like there is an opening to about 100 m.
 
+------------------------------
 
 **Pfirman & Solheim 1989:** *Subglacial meltwater discharge in the open-marine tidewater glacier environment: observations from Nordaustlandet, Svalbard Archipelago*
 
@@ -29,6 +37,24 @@ Includes CTD observations off the plume on the southern coast of Nordaustlandet.
 
 Also suggests that much of the terminus area is located below sea level - some below 100 m.
 
-<img src="t_transect_pfirman1989_S_austfonna.PNG"  width="300" height="300"> 
+<img src="t_transect_pfirman1989_S_austfonna.PNG"  width="200" height="200"> 
 
-<img src="pfirman_1989_drainagebasins.PNG"  width="450" height="300"> 
+<img src="pfirman_1989_drainagebasins.PNG"  width="300" height="200"> 
+
+------------------------------
+
+**Błaszczyk et al 2020:** *Factors controlling terminus position of Hansbreen, a
+tidewater glacier in Svalbard*
+
+https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JF005763 - *JGR: Earth
+Surface*
+
+Study of Hansbreen (Hornsund, southern Spitsbergen).
+
+Relate the position of the glacier front to ocean temperature variations - seems
+to be based on SST.
+
+*"..The duration of the retreat and advance periods are strongly correlated with
+the sea surface temperature.."*
+
+------------------------------
