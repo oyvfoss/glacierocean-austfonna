@@ -13,4 +13,4 @@ Experimenting with using the gitlab infrastructure for project management.
 - [Bathymetry](bathymetry/bathymetry.md)
 - [M1 mooring](M1_mooring/m1_mooring.md)
 - [1D Plume model](plume_model/plume_model.md)
-
+- [Data and sampling](data/data.md) 
