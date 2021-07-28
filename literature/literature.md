@@ -37,9 +37,9 @@ Includes CTD observations off the plume on the southern coast of Nordaustlandet.
 
 Also suggests that much of the terminus area is located below sea level - some below 100 m.
 
-<img src="t_transect_pfirman1989_S_austfonna.PNG"  width="200" height="200"> 
+<img src="t_transect_pfirman1989_S_austfonna.PNG"  width="300"> 
 
-<img src="pfirman_1989_drainagebasins.PNG"  width="300" height="200"> 
+<img src="pfirman_1989_drainagebasins.PNG"  width="500" > 
 
 ------------------------------
 
