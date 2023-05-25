@@ -1,0 +1,112 @@
+{
+  "comment" : "",
+  "version" : {
+    "file" : "1.0.0",
+    "ruskin" : "2.16.2"
+  },
+  "export" : {
+    "exporttime" : "2022-11-22 13:33:29.608",
+    "starttime" : "2021-02-20 19:25:00.000",
+    "endtime" : "2021-11-10 16:00:00.000"
+  },
+  "instrument" : {
+    "serial" : 204982,
+    "model" : "RBRconcerto³",
+    "fwtype" : 104,
+    "fwversion" : 1.121
+  },
+  "dataheader" : [ {
+    "index" : 1,
+    "name" : "Time",
+    "format" : "yyyy-MM-dd HH:mm:ss.SSS"
+  }, {
+    "index" : 1,
+    "name" : "Conductivity",
+    "units" : "mS/cm",
+    "calibration" : {
+      "time" : "2020-07-29 19:53:06.000",
+      "C0" : 0.01126405,
+      "C1" : 158.13213,
+      "X0" : 2.215198E-4,
+      "X1" : -2.207764E-5,
+      "X2" : 6.0E-7,
+      "X3" : 15.034834,
+      "X4" : 10.0
+    }
+  }, {
+    "index" : 2,
+    "name" : "Temperature",
+    "units" : "Degrees_C",
+    "calibration" : {
+      "time" : "2020-07-21 13:32:53.000",
+      "C0" : 0.0035149376,
+      "C1" : -2.533469E-4,
+      "C2" : 2.4641822E-6,
+      "C3" : -7.2472076E-8
+    }
+  }, {
+    "index" : 3,
+    "name" : "Pressure",
+    "units" : "dbar",
+    "sensor" : "K296468",
+    "calibration" : {
+      "time" : "2020-07-24 15:29:38.000",
+      "C0" : -62.530823,
+      "C1" : 2154.0967,
+      "C2" : 120.29975,
+      "C3" : -17.63823,
+      "X0" : 10.0608,
+      "X1" : 0.22945271,
+      "X2" : 5.393723E-4,
+      "X3" : -1.5337464E-6,
+      "X4" : -5.652334E-5,
+      "X5" : 22.77483
+    }
+  }, {
+    "index" : 4,
+    "name" : "Sea pressure",
+    "units" : "dbar"
+  }, {
+    "index" : 5,
+    "name" : "Depth",
+    "units" : "m"
+  }, {
+    "index" : 6,
+    "name" : "Salinity",
+    "units" : "PSU"
+  }, {
+    "index" : 7,
+    "name" : "Speed of sound",
+    "units" : "m/s"
+  }, {
+    "index" : 8,
+    "name" : "Specific conductivity",
+    "units" : "uS/cm"
+  }, {
+    "index" : 11,
+    "name" : "Density anomaly",
+    "units" : "kg/m3"
+  } ],
+  "schedule" : {
+    "loggertime" : "2021-11-10 17:02:56.938",
+    "starttime" : "2000-01-01 01:00:00.000",
+    "endtime" : "2099-12-31 01:00:00.000"
+  },
+  "sampling" : {
+    "mode" : "AVERAGE",
+    "period" : "500",
+    "burstcount" : 10,
+    "burstinterval" : 300000
+  },
+  "parameters" : {
+    "atmpressure" : 10.1325,
+    "density" : 1.0281,
+    "altitude" : 0.0,
+    "temperature" : 0.0,
+    "pressure" : 10.1325,
+    "conductivity" : 42.914,
+    "salinity" : 35.0,
+    "spec_cond_coeff" : 0.0191,
+    "offsetfromutc" : 0.0
+  }
+}

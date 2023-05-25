@@ -1,0 +1,46 @@
+Time,Type
+2021-02-20 19:25:00.000,Twist detected - sampling (re-)started
+2021-02-20 19:45:00.000,Profile - downcast detected
+2021-11-03 15:05:00.000,Profile - end of cast detected
+2021-11-03 15:05:00.000,Profile - upcast detected
+2021-11-03 21:15:00.000,Profile - end of cast detected
+2021-11-03 21:15:00.000,Profile - downcast detected
+2021-11-04 02:25:00.000,Profile - end of cast detected
+2021-11-04 02:25:00.000,Profile - upcast detected
+2021-11-04 09:15:00.000,Profile - end of cast detected
+2021-11-04 09:15:00.000,Profile - downcast detected
+2021-11-04 16:05:00.000,Profile - end of cast detected
+2021-11-04 16:05:00.000,Profile - upcast detected
+2021-11-04 22:15:00.000,Profile - end of cast detected
+2021-11-04 22:15:00.000,Profile - downcast detected
+2021-11-05 04:10:00.000,Profile - end of cast detected
+2021-11-05 04:10:00.000,Profile - upcast detected
+2021-11-05 10:35:00.000,Profile - end of cast detected
+2021-11-05 10:35:00.000,Profile - downcast detected
+2021-11-05 16:40:00.000,Profile - end of cast detected
+2021-11-05 16:40:00.000,Profile - upcast detected
+2021-11-05 22:45:00.000,Profile - end of cast detected
+2021-11-05 22:45:00.000,Profile - downcast detected
+2021-11-06 04:50:00.000,Profile - end of cast detected
+2021-11-06 04:50:00.000,Profile - upcast detected
+2021-11-06 11:05:00.000,Profile - end of cast detected
+2021-11-06 11:05:00.000,Profile - downcast detected
+2021-11-06 17:20:00.000,Profile - end of cast detected
+2021-11-06 17:20:00.000,Profile - upcast detected
+2021-11-06 23:35:00.000,Profile - end of cast detected
+2021-11-06 23:35:00.000,Profile - downcast detected
+2021-11-07 05:10:00.000,Profile - end of cast detected
+2021-11-07 05:10:00.000,Profile - upcast detected
+2021-11-07 11:35:00.000,Profile - end of cast detected
+2021-11-07 11:35:00.000,Profile - downcast detected
+2021-11-07 16:35:00.000,Profile - end of cast detected
+2021-11-07 16:35:00.000,Profile - upcast detected
+2021-11-10 09:00:00.000,Profile - end of cast detected
+2021-11-10 09:30:00.000,Profile - downcast detected
+2021-11-10 09:35:00.000,Profile - end of cast detected
+2021-11-10 09:35:00.000,Profile - upcast detected
+2021-11-10 10:00:00.000,Profile - end of cast detected
+2021-11-10 10:10:00.000,Profile - downcast detected
+2021-11-10 10:20:00.000,Profile - end of cast detected
+2021-11-10 10:20:00.000,Profile - upcast detected
+2021-11-10 11:15:00.000,Profile - end of cast detected
